@@ -2,7 +2,8 @@
 * Projected graduation in 202?
 * Typing at 67WPM
 * Proficient in Photoshop
-*  
+
+![title](url)  
 
 ## Term 1
 
