@@ -3,7 +3,7 @@
 * Typing at 67WPM
 * Proficient in Photoshop
 
-![title](url)  
+![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
 
 ## Term 1
 
