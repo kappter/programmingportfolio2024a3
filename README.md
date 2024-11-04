@@ -3,8 +3,10 @@
 * Typing at 67WPM
 * Proficient in Photoshop
 
-![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
-
 ## Term 1
+### Etch-A-Sketch
 
 ## Term 2
+### Calculator
+Description
+![Running App](https://github.com/kappter/programmingportfolio2025-a2/blob/main/images/calc.png?raw=true)
